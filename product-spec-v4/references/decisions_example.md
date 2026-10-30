@@ -1,6 +1,6 @@
 # Decision Record — Carter-Hoffmann PUC 10.1" (90LM101C109A1-CH) Product Spec V01
 
-產出日期：2026/10/13　｜　skill：product-spec-v2
+產出日期：2026/10/13　｜　skill：product-spec-v4
 
 ## 來源文件
 | 部門 | 檔名 | 版本 / 日期 | 備註 |
