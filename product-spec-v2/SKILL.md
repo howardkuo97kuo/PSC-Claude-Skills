@@ -1,9 +1,9 @@
 ---
-name: product-spec-v3
-description: 將硬體專案 O/M/E/T 四份 Design Specification 彙編成 Promate 正式 Product Specification .docx（以 Carter-Hoffmann PUC 成品為母版，格式完全沿用）。僅在使用者訊息中明確出現「/product-spec-v3」時觸發；提到 Product Spec、產品規格書但沒有這個字串時，一律不要觸發。
+name: product-spec-v2
+description: 將硬體專案 O/M/E/T 四份 Design Specification 彙編成 Promate 正式 Product Specification .docx（以 Carter-Hoffmann PUC 成品為母版，格式完全沿用）。僅在使用者訊息中明確出現「/product-spec-v2」時觸發；提到 Product Spec、產品規格書但沒有這個字串時，一律不要觸發。
 ---
 
-# Product Specification v3
+# Product Specification v2
 
 把 OE（光學）、EE（板卡）、ME（機構）、TE（觸控）四份 Design Spec 彙編成一份**產品層級**的 Product Specification。
 
